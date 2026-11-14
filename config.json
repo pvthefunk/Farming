@@ -1,20 +1,14 @@
 {
-  "locations": [
-    {
-      "name": "Chandigarh",
-      "pin_code": "160020"
-    }
-  ],
   "products": [
     {
-      "name": "Tomato",
-      "target_weight": "1 kg",
-      "product_url": "https://blinkit.com/search?query=tomato"
+      "name": "Strawberry",
+      "target_weight": "200 g",
+      "product_url": "PASTE_VERIFIED_BLINKIT_PRODUCT_URL_HERE"
     },
     {
-      "name": "Onion",
+      "name": "Pomegranate",
       "target_weight": "1 kg",
-      "product_url": "https://blinkit.com/search?query=onion"
+      "product_url": "PASTE_VERIFIED_BLINKIT_PRODUCT_URL_HERE"
     }
   ]
 }
